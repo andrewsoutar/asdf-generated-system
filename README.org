@@ -1,0 +1,6 @@
+#+STARTUP: indent
+
+* ASDF-GENERATED-SYSTEM
+This contains some hacks to make ASDF play somewhat nicely with
+code-generating systems. Interface subject to change as I work out the
+kinks. See [[https://github.com/andrewsoutar/cl-wayland-client][cl-wayland-client]] for up-to-date usage.
